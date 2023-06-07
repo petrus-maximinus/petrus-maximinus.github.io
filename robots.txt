@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://petrus-maximinus.github.io/sitemap.xml
